@@ -1,6 +1,5 @@
-import argparse
-from ReadScoringMatrix import read_scoring_matrix
 import numpy as np
+from ReadScoringMatrix import read_scoring_matrix
 
 
 def needleman_wunsch_linear(
